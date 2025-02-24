@@ -1,0 +1,4 @@
+Adjacency Matrix (3 x 3):
+0 6 0 
+0 0 0 
+0 0 0 
